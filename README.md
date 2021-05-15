@@ -1,2 +1,2 @@
-# econometria
-Estudos de econometria
+# Econometria
+Estudos de Econometria
