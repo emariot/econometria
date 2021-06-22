@@ -1,2 +1,2 @@
 # Econometria
-Estudos de Econometria
+Estudos de Econometria: R
